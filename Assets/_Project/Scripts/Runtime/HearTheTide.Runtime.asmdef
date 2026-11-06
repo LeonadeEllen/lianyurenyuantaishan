@@ -1,0 +1,10 @@
+{
+    "name": "HearTheTide.Runtime",
+    "rootNamespace": "HearTheTide",
+    "references": ["HearTheTide.Core"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
